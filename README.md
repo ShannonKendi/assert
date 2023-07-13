@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About Assert
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Protesting is a fundamental right to every citizen. Under article 37 of the Kenyan constitution, every person has the right, peaceably and unarmed, to assemble, to demonstrate, to picket, and to present petitions to public authorities. It is also the work of anyone who plans to protest in Kenya to notify the police and ensure that participants are peaceful. The protests being held today have tendencies of turning violent and leading to the interruptions of the daily work schedules of individuals. The protest application, Assert, makes it easier for a planner to organize his protest and individuals to join the protests and follow the guidelines of having a peaceful protest and a way to tackle emergencies when needed. With Assert, the vision of peaceful and impactful protests can become a reality, furthering the ideals of justice, equality, and freedom in society.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
